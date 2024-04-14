@@ -57,4 +57,5 @@ func main() {
 
 	// print the sorted daa
 	fmt.Println("Sorted array:", sorted)
+
 }
